@@ -62,3 +62,7 @@ function makeSound(key){
     }
 
 }
+
+//animate button
+
+var activeButton = document.querySelector("." + currentKey);
